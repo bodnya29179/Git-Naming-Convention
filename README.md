@@ -24,9 +24,9 @@ context for collaborators.
 
 **If you have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; feature/{{ Jira ticket ID }}_{{ Jira ticket name }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `feature/{{ Jira ticket ID }}_{{ Jira ticket name }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; feature/SP-2023_Implement_the_products_page
+> Example:&nbsp;&nbsp;&nbsp; `feature/SP-2023_Implement_the_products_page`
 
 \
 **If you don't have a JIRA ticket:**
@@ -44,9 +44,9 @@ If the feature was split into several subtasks, we should branch from the featur
 
 **If you have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{ Jira ticket ID }}_{{ Jira ticket name }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `{{ Jira ticket ID }}_{{ Jira ticket name }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; SP-2023_Implement_the_products_page
+> Example:&nbsp;&nbsp;&nbsp; `SP-2023_Implement_the_products_page`
 
 \
 **If you don't have a JIRA ticket:**
@@ -64,16 +64,16 @@ context for collaborators.
 
 **If you have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fix/{{ Jira ticket ID }}_{{ Jira ticket name }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fix/{{ Jira ticket ID }}_{{ Jira ticket name }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; fix/SP-2023_Incorrect_page_colors
+> Example:&nbsp;&nbsp;&nbsp; `fix/SP-2023_Incorrect_page_colors`
 
 \
 **If you don't have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fix/{{ What you want to do }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fix/{{ What you want to do }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; fix/Incorrect_page_colors
+> Example:&nbsp;&nbsp;&nbsp; `fix/Incorrect_page_colors`
 
 
 &nbsp;
@@ -86,16 +86,16 @@ context for collaborators.
 
 **If you have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ref/{{ Jira ticket ID }}_{{ Jira ticket name }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `ref/{{ Jira ticket ID }}_{{ Jira ticket name }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; ref/SP-2023_Refactor_the_products_page
+> Example:&nbsp;&nbsp;&nbsp; `ref/SP-2023_Refactor_the_products_page`
 
 \
 **If you don't have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ref/{{ What you want to do }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `ref/{{ What you want to do }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; ref/Refactor_the_products_page
+> Example:&nbsp;&nbsp;&nbsp; `ref/Refactor_the_products_page`
 
 
 &nbsp;
@@ -108,16 +108,16 @@ context for collaborators.
 
 **If you have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hotfix/{{ Jira ticket ID }}_{{ Jira ticket name }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `hotfix/{{ Jira ticket ID }}_{{ Jira ticket name }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; hotfix/SP-2023_Page_infinite_loading
+> Example:&nbsp;&nbsp;&nbsp; `hotfix/SP-2023_Page_infinite_loading`
 
 \
 **If you don't have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hotfix/{{ What you want to do }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `hotfix/{{ What you want to do }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; hotfix/Page_infinite_loading
+> Example:&nbsp;&nbsp;&nbsp; `hotfix/Page_infinite_loading`
 
 
 &nbsp;
@@ -134,9 +134,9 @@ See the _**Features**_ section.
 
 **If you don't have a JIRA ticket:**
 
-> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; custom/{{ What you want to do }}
+> Format:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `custom/{{ What you want to do }}`
 >
-> Example:&nbsp;&nbsp;&nbsp; custom/Align_the_button_text
+> Example:&nbsp;&nbsp;&nbsp; `custom/Align_the_button_text`
 
 
 
